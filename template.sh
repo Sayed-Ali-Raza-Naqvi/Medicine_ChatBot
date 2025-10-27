@@ -8,6 +8,7 @@ touch src/prompt.py
 touch .env
 touch setup.py
 touch app.py
+touch store_index.py
 
 touch research/trials.ipynb
 
